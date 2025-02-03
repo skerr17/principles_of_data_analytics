@@ -2,6 +2,10 @@
 
 by Stephen Kerr
 
+I am from Monaghan. See the image below is the Monaghan crest.
+
+![Logicians](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPwzzASC-zOU_HTuat06X71asvPAJ_CWXzrA&s)
+
 ## Purpose of this Repository 
 In this Repository I will submit my assessments for the Module Principles of Data Analytics for my HDIP in Computing and Data Analytics.
 
