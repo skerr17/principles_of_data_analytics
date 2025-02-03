@@ -1,4 +1,4 @@
-## Principles of Data Analytics
+# Principles of Data Analytics
 
 by Stephen Kerr
 
