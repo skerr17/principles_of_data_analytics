@@ -20,8 +20,3 @@ To learn more information on the HDIP review the link here: [HDIP in Computing a
 - Python
 - Git
 - GitHub
-
-## Image Loading Test
-I am from Monaghan. See the image below is the Monaghan crest.
-
-![Logicians](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPwzzASC-zOU_HTuat06X71asvPAJ_CWXzrA&s)
